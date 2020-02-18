@@ -1,0 +1,24 @@
+﻿@model  WebApplication8.EmployeeModel
+@{
+    ViewBag.Title = "Add";
+}
+
+<h2>AddEmployee</h2>
+@using (Html.BeginForm("Add", "Employee", FormMethod.Post))
+{
+    <span>FirstName</span>@Html.TextBoxFor(m => m.FirstName);
+    @Html.ValidationMessageFor(m => m.FirstName)
+    <br/>
+    @Html.TextAreaFor(m=>m.Description)
+    @Html.ValidationMessageFor(m => m.Description)
+    <br/>
+    @Html.TextBoxFor(m => m.Age)
+    @Html.ValidationMessageFor(m=>m.Age)
+    <br/>
+    @Html.TextBoxFor(m => m.DOJ)
+    @Html.ValidationMessageFor(m => m.DOJ)
+    <input type="submit" value="AddEmployee" />
+    @Html.ValidationSummary()
+}
+@ViewBag.msg
+
