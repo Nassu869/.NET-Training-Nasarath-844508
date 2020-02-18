@@ -1,0 +1,7 @@
+C:\Users\Admin\source\repos\CODE_CH\CODE_CH\bin\Debug\CODE_CH.exe.config
+C:\Users\Admin\source\repos\CODE_CH\CODE_CH\bin\Debug\CODE_CH.exe
+C:\Users\Admin\source\repos\CODE_CH\CODE_CH\bin\Debug\CODE_CH.pdb
+C:\Users\Admin\source\repos\CODE_CH\CODE_CH\obj\Debug\CODE_CH.csprojResolveAssemblyReference.cache
+C:\Users\Admin\source\repos\CODE_CH\CODE_CH\obj\Debug\CODE_CH.csproj.CoreCompileInputs.cache
+C:\Users\Admin\source\repos\CODE_CH\CODE_CH\obj\Debug\CODE_CH.exe
+C:\Users\Admin\source\repos\CODE_CH\CODE_CH\obj\Debug\CODE_CH.pdb
