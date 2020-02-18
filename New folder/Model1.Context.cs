@@ -7,16 +7,16 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-namespace NAVYAHANDSON
+namespace WebApplication12
 {
     using System;
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class NAVYAEntities2 : DbContext
+    public partial class SHEEBAEntities : DbContext
     {
-        public NAVYAEntities2()
-            : base("name=NAVYAEntities2")
+        public SHEEBAEntities()
+            : base("name=SHEEBAEntities")
         {
         }
     
@@ -25,7 +25,6 @@ namespace NAVYAHANDSON
             throw new UnintentionalCodeFirstException();
         }
     
-        public virtual DbSet<USERDETAIL> USERDETAILS { get; set; }
-        public virtual DbSet<USERINFO> USERINFOes { get; set; }
+        public virtual DbSet<NEW_TRAINING> NEW_TRAINING { get; set; }
     }
 }

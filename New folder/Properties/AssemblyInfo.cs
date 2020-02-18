@@ -5,11 +5,11 @@ using System.Runtime.InteropServices;
 // General Information about an assembly is controlled through the following
 // set of attributes. Change these attribute values to modify the information
 // associated with an assembly.
-[assembly: AssemblyTitle("NAVYAHANDSON")]
+[assembly: AssemblyTitle("WebApplication12")]
 [assembly: AssemblyDescription("")]
 [assembly: AssemblyConfiguration("")]
 [assembly: AssemblyCompany("")]
-[assembly: AssemblyProduct("NAVYAHANDSON")]
+[assembly: AssemblyProduct("WebApplication12")]
 [assembly: AssemblyCopyright("Copyright ©  2020")]
 [assembly: AssemblyTrademark("")]
 [assembly: AssemblyCulture("")]
@@ -20,7 +20,7 @@ using System.Runtime.InteropServices;
 [assembly: ComVisible(false)]
 
 // The following GUID is for the ID of the typelib if this project is exposed to COM
-[assembly: Guid("e64acb50-9c6f-4c26-861b-b7dd309d8eea")]
+[assembly: Guid("66950d77-dc88-499e-aa51-38c15a277a96")]
 
 // Version information for an assembly consists of the following four values:
 //
